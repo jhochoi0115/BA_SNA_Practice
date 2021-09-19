@@ -1,0 +1,452 @@
+Genre_A,Genre_B,Title
+무료,액션,Team Fortress 2
+액션,,Left 4 Dead 2
+무료,액션,Dota 2
+무료,전략,Dota 2
+액션,전략,Dota 2
+RPG,액션,Fallout: New Vegas
+RPG,액션,SEGA Mega Drive & Genesis Classics
+RPG,어드벤처,SEGA Mega Drive & Genesis Classics
+RPG,캐주얼,SEGA Mega Drive & Genesis Classics
+액션,어드벤처,SEGA Mega Drive & Genesis Classics
+액션,캐주얼,SEGA Mega Drive & Genesis Classics
+어드벤처,캐주얼,SEGA Mega Drive & Genesis Classics
+액션,,Metro 2033
+시뮬레이션,액션,Arma: Cold War Assault
+시뮬레이션,전략,Arma: Cold War Assault
+액션,전략,Arma: Cold War Assault
+액션,,Sonic Generations
+어드벤처,인디,The Dream Machine
+어드벤처,캐주얼,The Dream Machine
+인디,캐주얼,The Dream Machine
+액션,,Wolfenstein: The New Order
+<No Genres>,,Dota 2 Test
+액션,어드벤처,Magrunner: Dark Pulse
+액션,인디,Magrunner: Dark Pulse
+어드벤처,인디,Magrunner: Dark Pulse
+어드벤처,,NiGHTS into Dreams...
+<No Genres>,,3DMark
+전략,,Company of Heroes 2
+시뮬레이션,액션,Surgeon Simulator
+시뮬레이션,인디,Surgeon Simulator
+액션,인디,Surgeon Simulator
+인디,,Spelunky
+액션,,Injustice: Gods Among Us Ultimate Edition
+액션,,Ori and the Blind Forest
+액션,,BlazBlue: Calamity Trigger
+게임 개발,교육,GameGuru
+게임 개발,디자인과 일러스트레이션,GameGuru
+게임 개발,소프트웨어 교육,GameGuru
+게임 개발,애니메이션과 모델링,GameGuru
+게임 개발,유틸리티,GameGuru
+교육,디자인과 일러스트레이션,GameGuru
+교육,소프트웨어 교육,GameGuru
+교육,애니메이션과 모델링,GameGuru
+교육,유틸리티,GameGuru
+디자인과 일러스트레이션,소프트웨어 교육,GameGuru
+디자인과 일러스트레이션,애니메이션과 모델링,GameGuru
+디자인과 일러스트레이션,유틸리티,GameGuru
+소프트웨어 교육,애니메이션과 모델링,GameGuru
+소프트웨어 교육,유틸리티,GameGuru
+애니메이션과 모델링,유틸리티,GameGuru
+시뮬레이션,인디,Offworld Trading Company
+시뮬레이션,전략,Offworld Trading Company
+인디,전략,Offworld Trading Company
+시뮬레이션,어드벤처,This War of Mine
+시뮬레이션,인디,This War of Mine
+어드벤처,인디,This War of Mine
+RPG,액션,Jagged Alliance Gold
+RPG,전략,Jagged Alliance Gold
+액션,전략,Jagged Alliance Gold
+시뮬레이션,인디,Mini Metro
+시뮬레이션,전략,Mini Metro
+인디,전략,Mini Metro
+액션,어드벤처,Titan Souls
+액션,인디,Titan Souls
+어드벤처,인디,Titan Souls
+RPG,앞서 해보기,Geneshift
+RPG,액션,Geneshift
+RPG,인디,Geneshift
+앞서 해보기,액션,Geneshift
+앞서 해보기,인디,Geneshift
+액션,인디,Geneshift
+액션,인디,SUPERHOT
+RPG,어드벤처,Deep Dungeons of Doom
+RPG,캐주얼,Deep Dungeons of Doom
+어드벤처,캐주얼,Deep Dungeons of Doom
+교육,디자인과 일러스트레이션,AppGameKit Classic
+교육,소프트웨어 교육,AppGameKit Classic
+교육,애니메이션과 모델링,AppGameKit Classic
+교육,웹 퍼블리싱,AppGameKit Classic
+교육,유틸리티,AppGameKit Classic
+디자인과 일러스트레이션,소프트웨어 교육,AppGameKit Classic
+디자인과 일러스트레이션,애니메이션과 모델링,AppGameKit Classic
+디자인과 일러스트레이션,웹 퍼블리싱,AppGameKit Classic
+디자인과 일러스트레이션,유틸리티,AppGameKit Classic
+애니메이션과 모델링,웹 퍼블리싱,AppGameKit Classic
+애니메이션과 모델링,유틸리티,AppGameKit Classic
+웹 퍼블리싱,유틸리티,AppGameKit Classic
+시뮬레이션,액션,I Am Bread
+시뮬레이션,어드벤처,I Am Bread
+시뮬레이션,인디,I Am Bread
+액션,어드벤처,I Am Bread
+액션,인디,I Am Bread
+어드벤처,인디,I Am Bread
+인디,전략,Quiplash
+인디,캐주얼,Quiplash
+전략,캐주얼,Quiplash
+디자인과 일러스트레이션,웹 퍼블리싱,RPG Maker MV
+동영상 제작,디자인과 일러스트레이션,Blender
+동영상 제작,애니메이션과 모델링,Blender
+디자인과 일러스트레이션,애니메이션과 모델링,Blender
+시뮬레이션,인디,Kingdom: Classic
+시뮬레이션,전략,Kingdom: Classic
+인디,전략,Kingdom: Classic
+RPG,,Fallout 4
+액션,,DOOM
+대규모 멀티플레이어,무료,Fishing Planet
+대규모 멀티플레이어,스포츠,Fishing Planet
+대규모 멀티플레이어,시뮬레이션,Fishing Planet
+무료,스포츠,Fishing Planet
+무료,시뮬레이션,Fishing Planet
+스포츠,시뮬레이션,Fishing Planet
+액션,,Ori and the Blind Forest: Definitive Edition
+스포츠,액션,TEKKEN 7
+RPG,인디,Undertale
+RPG,액션,Vikings - Wolves of Midgard
+어드벤처,인디,The Uncertain: Last Quiet Day
+어드벤처,,Danganronpa: Trigger Happy Havoc
+어드벤처,,Danganronpa 2: Goodbye Despair
+어드벤처,인디,Nubarron: The adventure of an unlucky gnome
+액션,인디,Spelunky 2
+시뮬레이션,,Home Design 3D
+어드벤처,,Little Nightmares
+디자인과 일러스트레이션,사진 편집,Wallpaper Engine
+디자인과 일러스트레이션,애니메이션과 모델링,Wallpaper Engine
+디자인과 일러스트레이션,유틸리티,Wallpaper Engine
+디자인과 일러스트레이션,인디,Wallpaper Engine
+디자인과 일러스트레이션,캐주얼,Wallpaper Engine
+사진 편집,애니메이션과 모델링,Wallpaper Engine
+사진 편집,유틸리티,Wallpaper Engine
+사진 편집,인디,Wallpaper Engine
+사진 편집,캐주얼,Wallpaper Engine
+애니메이션과 모델링,유틸리티,Wallpaper Engine
+애니메이션과 모델링,인디,Wallpaper Engine
+애니메이션과 모델링,캐주얼,Wallpaper Engine
+유틸리티,인디,Wallpaper Engine
+유틸리티,캐주얼,Wallpaper Engine
+인디,캐주얼,Wallpaper Engine
+어드벤처,인디,Rusty Lake Hotel
+대규모 멀티플레이어,무료,World of Tanks Blitz
+대규모 멀티플레이어,액션,World of Tanks Blitz
+무료,액션,World of Tanks Blitz
+시뮬레이션,전략,Surviving Mars
+액션,어드벤처,Scrap Garden
+액션,인디,Scrap Garden
+어드벤처,인디,Scrap Garden
+시뮬레이션,인디,Northgard
+시뮬레이션,전략,Northgard
+인디,전략,Northgard
+RPG,액션,Titan Quest Anniversary Edition
+RPG,무료,Minion Masters
+RPG,액션,Minion Masters
+RPG,어드벤처,Minion Masters
+RPG,인디,Minion Masters
+RPG,전략,Minion Masters
+무료,액션,Minion Masters
+무료,어드벤처,Minion Masters
+무료,인디,Minion Masters
+무료,전략,Minion Masters
+액션,어드벤처,Minion Masters
+액션,인디,Minion Masters
+액션,전략,Minion Masters
+어드벤처,인디,Minion Masters
+어드벤처,전략,Minion Masters
+인디,전략,Minion Masters
+RPG,,The Elder Scrolls V: Skyrim Special Edition
+레이싱,액션,Super Pixel Racers
+레이싱,인디,Super Pixel Racers
+액션,인디,Super Pixel Racers
+액션,어드벤처,Just Cause 4
+스포츠,시뮬레이션,theHunter: Call of the Wild™
+스포츠,어드벤처,theHunter: Call of the Wild™
+시뮬레이션,어드벤처,theHunter: Call of the Wild™
+RPG,시뮬레이션,Purrfect Date
+RPG,어드벤처,Purrfect Date
+RPG,인디,Purrfect Date
+RPG,캐주얼,Purrfect Date
+시뮬레이션,어드벤처,Purrfect Date
+시뮬레이션,인디,Purrfect Date
+시뮬레이션,캐주얼,Purrfect Date
+어드벤처,인디,Purrfect Date
+어드벤처,캐주얼,Purrfect Date
+인디,캐주얼,Purrfect Date
+RPG,액션,NieR:Automata™
+시뮬레이션,전략,Bomber Crew
+액션,,SOULCALIBUR VI
+무료,인디,KARDS - The WWII Card Game
+무료,전략,KARDS - The WWII Card Game
+무료,캐주얼,KARDS - The WWII Card Game
+인디,전략,KARDS - The WWII Card Game
+인디,캐주얼,KARDS - The WWII Card Game
+전략,캐주얼,KARDS - The WWII Card Game
+액션,,Danganronpa Another Episode: Ultra Despair Girls
+<No Genres>,,Danganronpa V3: Killing Harmony
+액션,,Monster Hunter: World
+액션,인디,Dead Cells
+RPG,어드벤처,Ni no Kuni™ II: Revenant Kingdom
+무료,전략,Yu-Gi-Oh! Duel Links
+액션,,Wolfenstein II: The New Colossus
+시뮬레이션,캐주얼,Museum of Other Realities
+시뮬레이션,액션,Ultimate Epic Battle Simulator
+시뮬레이션,어드벤처,Ultimate Epic Battle Simulator
+시뮬레이션,인디,Ultimate Epic Battle Simulator
+시뮬레이션,전략,Ultimate Epic Battle Simulator
+액션,어드벤처,Ultimate Epic Battle Simulator
+액션,인디,Ultimate Epic Battle Simulator
+액션,전략,Ultimate Epic Battle Simulator
+어드벤처,인디,Ultimate Epic Battle Simulator
+어드벤처,전략,Ultimate Epic Battle Simulator
+인디,전략,Ultimate Epic Battle Simulator
+레이싱,액션,Steel Rats
+RPG,액션,Sword Art Online: Fatal Bullet
+RPG,액션,Maneater
+RPG,어드벤처,Maneater
+RPG,인디,Maneater
+액션,어드벤처,Maneater
+액션,인디,Maneater
+어드벤처,인디,Maneater
+RPG,,FINAL FANTASY XV WINDOWS EDITION
+액션,인디,Will Glow the Wisp
+액션,어드벤처,Pogostuck: Rage With Your Friends
+액션,인디,Pogostuck: Rage With Your Friends
+액션,캐주얼,Pogostuck: Rage With Your Friends
+어드벤처,인디,Pogostuck: Rage With Your Friends
+어드벤처,캐주얼,Pogostuck: Rage With Your Friends
+인디,캐주얼,Pogostuck: Rage With Your Friends
+액션,인디,SUPERHOT: MIND CONTROL DELETE
+무료,인디,Doki Doki Literature Club
+무료,캐주얼,Doki Doki Literature Club
+인디,캐주얼,Doki Doki Literature Club
+액션,인디,Blackout Z: Slaughterhouse Edition
+액션,인디,Muse Dash
+액션,캐주얼,Muse Dash
+인디,캐주얼,Muse Dash
+시뮬레이션,액션,Surgeon Simulator 2
+시뮬레이션,인디,Surgeon Simulator 2
+시뮬레이션,캐주얼,Surgeon Simulator 2
+액션,인디,Surgeon Simulator 2
+액션,캐주얼,Surgeon Simulator 2
+인디,캐주얼,Surgeon Simulator 2
+액션,,DOOM Eternal
+시뮬레이션,액션,WHAT THE GOLF?
+시뮬레이션,어드벤처,WHAT THE GOLF?
+시뮬레이션,인디,WHAT THE GOLF?
+시뮬레이션,캐주얼,WHAT THE GOLF?
+액션,어드벤처,WHAT THE GOLF?
+액션,인디,WHAT THE GOLF?
+액션,캐주얼,WHAT THE GOLF?
+어드벤처,인디,WHAT THE GOLF?
+어드벤처,캐주얼,WHAT THE GOLF?
+인디,캐주얼,WHAT THE GOLF?
+무료,시뮬레이션,missed messages.
+무료,인디,missed messages.
+무료,캐주얼,missed messages.
+시뮬레이션,인디,missed messages.
+시뮬레이션,캐주얼,missed messages.
+인디,캐주얼,missed messages.
+액션,,JUMP FORCE
+대규모 멀티플레이어,무료,Super Animal Royale
+대규모 멀티플레이어,액션,Super Animal Royale
+대규모 멀티플레이어,어드벤처,Super Animal Royale
+대규모 멀티플레이어,인디,Super Animal Royale
+대규모 멀티플레이어,캐주얼,Super Animal Royale
+무료,액션,Super Animal Royale
+무료,어드벤처,Super Animal Royale
+무료,인디,Super Animal Royale
+무료,캐주얼,Super Animal Royale
+액션,어드벤처,Super Animal Royale
+액션,인디,Super Animal Royale
+액션,캐주얼,Super Animal Royale
+어드벤처,인디,Super Animal Royale
+어드벤처,캐주얼,Super Animal Royale
+인디,캐주얼,Super Animal Royale
+어드벤처,,Catherine Classic
+액션,,GOD EATER 3
+RPG,인디,Destiny or Fate
+RPG,전략,Destiny or Fate
+인디,전략,Destiny or Fate
+스포츠,액션,DJMAX RESPECT V
+스포츠,캐주얼,DJMAX RESPECT V
+액션,캐주얼,DJMAX RESPECT V
+액션,어드벤처,Chronos: Before the Ashes
+액션,어드벤처,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
+액션,캐주얼,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
+어드벤처,캐주얼,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
+전략,캐주얼,Warhammer Underworlds: Online
+RPG,,Digimon Story Cyber Sleuth: Complete Edition
+레이싱,액션,Kao the Kangaroo: Round 2
+레이싱,어드벤처,Kao the Kangaroo: Round 2
+레이싱,캐주얼,Kao the Kangaroo: Round 2
+액션,어드벤처,Kao the Kangaroo: Round 2
+액션,캐주얼,Kao the Kangaroo: Round 2
+어드벤처,캐주얼,Kao the Kangaroo: Round 2
+무료,앞서 해보기,Eternal Return
+무료,인디,Eternal Return
+무료,전략,Eternal Return
+앞서 해보기,인디,Eternal Return
+앞서 해보기,전략,Eternal Return
+인디,전략,Eternal Return
+레이싱,액션,Crumble
+레이싱,어드벤처,Crumble
+레이싱,인디,Crumble
+액션,어드벤처,Crumble
+액션,인디,Crumble
+어드벤처,인디,Crumble
+앞서 해보기,액션,Seen
+앞서 해보기,어드벤처,Seen
+앞서 해보기,인디,Seen
+액션,어드벤처,Seen
+액션,인디,Seen
+어드벤처,인디,Seen
+RPG,액션,DRAGON QUEST BUILDERS™ 2
+RPG,어드벤처,DRAGON QUEST BUILDERS™ 2
+액션,어드벤처,DRAGON QUEST BUILDERS™ 2
+대규모 멀티플레이어,스포츠,Fall Guys: Ultimate Knockout
+대규모 멀티플레이어,액션,Fall Guys: Ultimate Knockout
+대규모 멀티플레이어,인디,Fall Guys: Ultimate Knockout
+대규모 멀티플레이어,캐주얼,Fall Guys: Ultimate Knockout
+스포츠,액션,Fall Guys: Ultimate Knockout
+스포츠,인디,Fall Guys: Ultimate Knockout
+스포츠,캐주얼,Fall Guys: Ultimate Knockout
+액션,인디,Fall Guys: Ultimate Knockout
+액션,캐주얼,Fall Guys: Ultimate Knockout
+인디,캐주얼,Fall Guys: Ultimate Knockout
+앞서 해보기,액션,ALTF4
+앞서 해보기,어드벤처,ALTF4
+앞서 해보기,인디,ALTF4
+액션,어드벤처,ALTF4
+액션,인디,ALTF4
+어드벤처,인디,ALTF4
+RPG,액션,Hades
+RPG,인디,Hades
+액션,인디,Hades
+액션,인디,GALAXIUM
+액션,캐주얼,GALAXIUM
+액션,캐주얼,GALAXIUM
+무료,인디,Talesshop Puzzle
+무료,캐주얼,Talesshop Puzzle
+인디,캐주얼,Talesshop Puzzle
+어드벤처,,Tell Me Why
+어드벤처,인디,Some Some Convenience Store
+어드벤처,캐주얼,Some Some Convenience Store
+인디,캐주얼,Some Some Convenience Store
+액션,어드벤처,A Way Out
+액션,인디,A Way Out
+어드벤처,인디,A Way Out
+스포츠,시뮬레이션,Tennis World Tour 2
+액션,,Battlefield™ V
+무료,어드벤처,There is no game: Jam Edition 2015
+무료,인디,There is no game: Jam Edition 2015
+무료,캐주얼,There is no game: Jam Edition 2015
+어드벤처,인디,There is no game: Jam Edition 2015
+어드벤처,캐주얼,There is no game: Jam Edition 2015
+인디,캐주얼,There is no game: Jam Edition 2015
+RPG,대규모 멀티플레이어,Bless Unleashed
+RPG,무료,Bless Unleashed
+RPG,액션,Bless Unleashed
+대규모 멀티플레이어,무료,Bless Unleashed
+대규모 멀티플레이어,액션,Bless Unleashed
+무료,액션,Bless Unleashed
+무료,액션,Portal Reloaded
+액션,캐주얼,Puyo Puyo™ Tetris? 2
+RPG,어드벤처,Monster Hunter Stories 2: Wings of Ruin
+스포츠,앞서 해보기,FortressV2
+스포츠,액션,FortressV2
+스포츠,인디,FortressV2
+스포츠,전략,FortressV2
+스포츠,캐주얼,FortressV2
+앞서 해보기,액션,FortressV2
+앞서 해보기,인디,FortressV2
+앞서 해보기,전략,FortressV2
+앞서 해보기,캐주얼,FortressV2
+액션,인디,FortressV2
+액션,전략,FortressV2
+액션,캐주얼,FortressV2
+인디,전략,FortressV2
+인디,캐주얼,FortressV2
+전략,캐주얼,FortressV2
+무료,어드벤처,Samsara Room
+무료,인디,Samsara Room
+어드벤처,인디,Samsara Room
+무료,어드벤처,Helltaker
+무료,인디,Helltaker
+어드벤처,인디,Helltaker
+액션,어드벤처,UNBEATABLE [white label]
+액션,인디,UNBEATABLE [white label]
+어드벤처,인디,UNBEATABLE [white label]
+RPG,어드벤처,DRAGON QUEST XI S: Echoes of an Elusive Age ? Definitive Edition
+무료,액션,Super Bomberman R Online
+무료,캐주얼,Super Bomberman R Online
+액션,캐주얼,Super Bomberman R Online
+스포츠,시뮬레이션,EA SPORTS™ FIFA 21
+RPG,대규모 멀티플레이어,RuneScape
+RPG,무료,RuneScape
+대규모 멀티플레이어,무료,RuneScape
+액션,인디,Sakuna: Of Rice and Ruin
+무료,인디,Virtual Cottage
+무료,캐주얼,Virtual Cottage
+인디,캐주얼,Virtual Cottage
+인디,캐주얼,Cats Organized Neatly
+RPG,시뮬레이션,三?群英?
+RPG,액션,三?群英?
+RPG,전략,三?群英?
+시뮬레이션,액션,三?群英?
+시뮬레이션,전략,三?群英?
+액션,전략,三?群英?
+RPG,무료,세 장의 카드
+RPG,액션,세 장의 카드
+RPG,어드벤처,세 장의 카드
+RPG,인디,세 장의 카드
+무료,액션,세 장의 카드
+무료,어드벤처,세 장의 카드
+무료,인디,세 장의 카드
+액션,어드벤처,세 장의 카드
+액션,인디,세 장의 카드
+어드벤처,인디,세 장의 카드
+대규모 멀티플레이어,레이싱,Bro Falls: Ultimate Showdown
+대규모 멀티플레이어,무료,Bro Falls: Ultimate Showdown
+대규모 멀티플레이어,앞서 해보기,Bro Falls: Ultimate Showdown
+대규모 멀티플레이어,액션,Bro Falls: Ultimate Showdown
+대규모 멀티플레이어,인디,Bro Falls: Ultimate Showdown
+대규모 멀티플레이어,캐주얼,Bro Falls: Ultimate Showdown
+레이싱,무료,Bro Falls: Ultimate Showdown
+레이싱,앞서 해보기,Bro Falls: Ultimate Showdown
+레이싱,액션,Bro Falls: Ultimate Showdown
+레이싱,인디,Bro Falls: Ultimate Showdown
+레이싱,캐주얼,Bro Falls: Ultimate Showdown
+무료,앞서 해보기,Bro Falls: Ultimate Showdown
+무료,액션,Bro Falls: Ultimate Showdown
+무료,인디,Bro Falls: Ultimate Showdown
+무료,캐주얼,Bro Falls: Ultimate Showdown
+앞서 해보기,액션,Bro Falls: Ultimate Showdown
+앞서 해보기,인디,Bro Falls: Ultimate Showdown
+앞서 해보기,캐주얼,Bro Falls: Ultimate Showdown
+액션,인디,Bro Falls: Ultimate Showdown
+액션,캐주얼,Bro Falls: Ultimate Showdown
+인디,캐주얼,Bro Falls: Ultimate Showdown
+어드벤처,인디,Behind the Frame: The Finest Scenery
+어드벤처,캐주얼,Behind the Frame: The Finest Scenery
+인디,캐주얼,Behind the Frame: The Finest Scenery
+액션,어드벤처,Blood Spear
+액션,인디,Blood Spear
+어드벤처,인디,Blood Spear
+인디,,Deepest Sword
+<No Genres>,,RunnerDot
+어드벤처,인디,Sokocat - Dungeon
+어드벤처,전략,Sokocat - Dungeon
+어드벤처,캐주얼,Sokocat - Dungeon
+인디,전략,Sokocat - Dungeon
+인디,캐주얼,Sokocat - Dungeon
+전략,캐주얼,Sokocat - Dungeon
+캐주얼,,CANNON
